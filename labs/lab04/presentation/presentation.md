@@ -1,21 +1,10 @@
----
-## Front matter
-lang: ru-RU
-title: Лабораторная работа №4
-author: |
-	Куляпин Т.М, НКАбд-03-22
-## Formatting
-toc: false
-slide_level: 2
-theme: metropolis
-header-includes: 
- - \metroset{progressbar=frametitle,sectionpage=progressbar,numbering=fraction}
- - '\makeatletter'
- - '\beamer@ignorenonframefalse'
- - '\makeatother'
-aspectratio: 43
-section-titles: true
----
+
+
+
+Лабораторная работа №4
+
+    Куляпин Т.М, НКАбд-03-22
+
 
 ## Содержание
 
@@ -106,6 +95,6 @@ letters, memos, misk. Затем удалим эти каталоги одной
 1. Командная строка Windows [Электронный ресурс]. URL:
 https://foxford.ru/wiki/informatika/komandnaya-stroka-windows.
 
-## {.standout}
+## заключение
 
 Спасибо за внимание
